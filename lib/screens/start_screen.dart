@@ -20,7 +20,7 @@ class StartScreen extends StatelessWidget {
             "Learn Flutter the fun way!",
             style: GoogleFonts.poppins(
               color: Colors.white,
-              fontSize: 28,
+              fontSize: 24,
               fontWeight: FontWeight.bold,
             ),
           ),
