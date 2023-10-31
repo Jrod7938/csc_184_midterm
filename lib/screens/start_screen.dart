@@ -20,7 +20,7 @@ class StartScreen extends StatelessWidget {
             "Flutter Quiz App!",
             style: GoogleFonts.poppins(
               color: Colors.white,
-              fontSize: 34,
+              fontSize: 24,
               fontWeight: FontWeight.bold,
             ),
           ),
