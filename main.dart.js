@@ -37191,7 +37191,7 @@ $1(a){var s=J.as(a)
 return J.f(s.k(a,"user_answer"),s.k(a,"correct_answer"))},
 $S:335}
 A.Er.prototype={
-V(a){var s=null,r=A.ami(s,s,new A.pD("assets/image/hofstra.png",s,s)),q=A.lT("Learn Flutter the fun way!",A.a67().$3$color$fontSize$fontWeight(B.i,24,B.a5),s),p=A.abH(s,s,s,s,s,s,s,s,s,B.i,s,s,s,s,s,s,s,s,s,s)
+V(a){var s=null,r=A.ami(s,s,new A.pD("assets/image/hofstra.png",s,s)),q=A.lT("Flutter Quiz App!",A.a67().$3$color$fontSize$fontWeight(B.i,24,B.a5),s),p=A.abH(s,s,s,s,s,s,s,s,s,B.i,s,s,s,s,s,s,s,s,s,s)
 return A.a6M(A.zc(A.a([new A.qX(r,500,s),q,B.ef,new A.IC(this.c,s,s,s,p,B.I,s,!1,s,!0,new A.ID(B.Kq,B.yQ,s),s)],t.E),B.bw,B.dN,B.dO),s,s)}}
 A.ye.prototype={
 V(a){var s=null
